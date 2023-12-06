@@ -1,6 +1,6 @@
-# scanner
+# Scanner
 
-A new Flutter project.
+Explore effortlessly with our Flutter app! Scan QR codes and barcodes swiftly. Instantly decode and access information, all in an intuitive interface. Simplify your digital interactions on the go!.
 
 ## Getting Started
 
